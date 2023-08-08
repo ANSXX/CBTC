@@ -8,7 +8,7 @@
 {
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(135deg, #03ff8e, #01c9df);
+    background: linear-gradient(100deg, #03ff8e, #01c9df);
     align-items: center;
     justify-content:center ;
     display: flex;
@@ -19,7 +19,7 @@
 {
     max-width: 540px;
     width: 100%;
-    background: #fff;
+    background: linear-gradient(100deg, #01c9dfb1, #03ff8eb1);
     margin: 100px auto 20px;
     padding: 40px 30px 70px;
     border-radius: 10px;
